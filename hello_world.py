@@ -14,3 +14,8 @@ elif current_time.hour < 18:
     print("Good afternoon")
 else:
     print("Good evening")
+
+
+if current_time.year > 2025:
+   print("Welcome to the future")
+
